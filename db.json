@@ -4,18 +4,19 @@
       "id": 1,
       "name": "limpieza dental"
     },
-     {
+    {
       "id": 2,
       "name": "extracción de molares"
      },
-     {
+    {
       "id": 3,
       "name": "remoción de caries"
      },
-     {
+    {
       "id": 4,
       "name": "empaste deltal"
-     }, {
+     },
+    {
       "id": 5,
       "nane": "ortodoncia"
      }

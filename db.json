@@ -78,7 +78,10 @@
     }   
   ],"turn":[{
   "id": 1,
-  "service_id": 1,
+  "service": {
+      "id":1,
+      "name":"limpieza dental"
+  },
   "description": "Descripcion turno",
   "creation_date": "5/9/2023",
   "date_asignment": "null",
@@ -86,7 +89,10 @@
   "finish_turn": "11:59"
 }, {
   "id": 2,
-  "service_id": 4,
+  "service": {
+      "id":2,
+      "name": "extraccion dental"
+  },
   "description": "Descripcion turno",
   "creation_date": "12/30/2023",
   "date_asignment": "null",

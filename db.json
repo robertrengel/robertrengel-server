@@ -1,136 +1,157 @@
 {
-    "pacientes": [
-        {
+    "books": [
+          {
             "id": 1,
-            "profileImgUrl": "http://localhost:3000/img07.jpg",
-            "firt_name": "Pål",
-            "last_name": "Pointer",
-            "email": "jpointer0@imageshack.us",
-            "role": "proveedor",
-            "accountType": "primiun",
-            "status": "dimiss",
-            "registrationDate": "04/11/2023"
-        },
-        {
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/f4/65/f465a84545d7a6f4109ae2922be1befa.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Dune%20-%20Frank%20Herbert.epub",
+            "porcent": 65,
+            "type_file": "epub",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 416,
+            "summary":"Arrakis: un planeta desértico donde el agua es el bien más preciado, donde llorar a los muertos es el símbolo de máxima prodigalidad. Paul Atreides: un adolescente marcado por un destino singular, dotado de extraños poderes, abocado a convertirse en dictador, mesías y mártir. Los Harkonnen: personificación de las intrigas que rodean el Imperio Galáctico, buscan obtener el control sobre Arrakis para disponer de la melange, preciosa especia y uno de los bienes más codiciados del universo. Los Fremen: seres libres que han convertido el inhóspito paraje de Dune en su hogar, y que se sienten orgullosos de su pasado y temerosos de su futuro. Dune: una obra maestra unánimemente reconocida como la mejor saga de ciencia ficción de todos los tiempos"
+          },
+          {
             "id": 2,
-            "profileImgUrl": "http://localhost:3000/img06.jpg",
-            "firt_name": "Cléa",
-            "last_name": "Humbie",
-            "email": "ehumbie1@bigcartel.com",
-            "role": "cliente",
-            "accountType": "primiun",
-            "status": "dimiss",
-            "registrationDate": "02/02/2024"
-        },
-        {
+            "title": "Harry Potter y la piedra filosofal",
+            "author": "J. K. Rowling",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/b2/b8/b2b8f402ecba8e723dd61dd6d824b1d3.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Harry%20Potter%20y%20la%20piedra%20filosofal%20-%20J.%20K.%20Rowling.pdf",
+            "porcent": 76,
+            "type_file": "pdf",
+            "category": "Fantasy",
+            "lenguaje": "English",
+            "num_pags": 288,
+            "summary":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el colegio interno Hogwarts de magia y hechicería. A partir de ese momento, la suerte de Harry da un vuelco espectacular. En esa escuela tan especial aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes. Se convertirá en el campeón escolar de quidditch, especie de fútbol aéreo que se juega montado sobre escobas, y se hará un puñado de buenos amigos... aunque también algunos temibles enemigos. Pero sobre todo, conocerá los secretos que le permitirán cumplir con su destino. Pues, aunque no lo parezca a primera vista, Harry no es un chico común y corriente. ¡Es un mago!"
+          },
+          {
             "id": 3,
-            "profileImgUrl": "http://localhost:3000/img06.jpg",
-            "firt_name": "Mén",
-            "last_name": "Habbes",
-            "email": "dhabbes2@hibu.com",
-            "role": "cliente",
-            "accountType": "free",
-            "status": "dimiss",
-            "registrationDate": "03/08/2023"
-        },
-        {
+            "title": "El Problema de los Tres Cuerpos",
+            "author": "Liu Cixin",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/d2/6e/d26e76427d651ef127b00da000409e14.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/El%20problema%20de%20los%20Tres%20Cuerpos%20-%20Liu%20Cixin.epub",
+            "porcent": 65,
+            "type_file": "epub",
+            "category": "Ciencia Ficción",
+            "lenguaje": "English",
+            "num_pags": 416,
+            "summary":"Este libro ofrece la posibilidad única de acercarse al fenómeno editorial chino que ha conquistado el mundo y ha ganado el premio Hugo 2015 a la mejor novela, siendo la primera vez que una obra no escrita originariamente en inglés merece tal reconocimiento. Su autor, Cixin Liu, es el escritor de ciencia ficción más relevante en China, capaz de vender más de un millón de ejemplares en su país y convencer a prescriptores de la talla de Barack Obama, quien seleccionó El problema de los Tres Cuerpos como una de sus lecturas navideñas de 2015, y Mark Zuckerberg, que lo convirtió en la primera novela de su club de lectura. Ahora el público y la crítica de los cinco continentes se rinden a esta obra maestra, enormemente visionaria, sobre el papel de la ciencia en nuestras sociedades, que nos ayuda a comprender el pasado y el futuro de China, pero también, leída en clave geopolítica, del mundo en que vivimos."
+          },
+          {
             "id": 4,
-            "profileImgUrl": "http://localhost:3000/img07.jpg",
-            "firt_name": "Magdalène",
-            "last_name": "Charlwood",
-            "email": "mcharlwood3@unesco.org",
-            "role": "cliente",
-            "accountType": "primiun",
-            "status": "dimiss",
-            "registrationDate": "30/05/2023"
-        },
-        {
+            "title": "Los HUerfanos",
+            "author": "Jorge Carrión",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/a4/bf/a4bffd6e78af3b1ea592a45aa36753a2.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Los%20huerfanos%20-%20Jorge%20Carrion.pdf",
+            "porcent": 35,
+            "type_file": "pdf",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 256,
+            "summary":"Un grupo de supervivientes de la Tercera Guerra Mundial, procedentes de distintos puntos del planeta, lleva trece años aislado en un búnker de Pequín. Sus historias nos las cuenta Marcelo —narrador poco fiable obsesionado con memorizar el diccionario— a partir del día en que el loco y peligroso Anthony se escapa de su celda y atenta contra la armonía de la comunidad. Las miserias, las traiciones y los descubrimientos, en ese ambiente post-apocalíptico, se irán alternando con los informes que relatan cómo el fenómeno de la reanimación histórica fue conduciendo al colapso de la humanidad. Los huérfanos es un relato de ciencia-ficción profundamente humanista. Una asombrosa indagación en los peligros de la memoria histórica como instrumento político. Y una apuesta por la literatura entendida como ambición."
+          },
+          {
             "id": 5,
-            "profileImgUrl": "http://localhost:3000/img02.jpg",
-            "firt_name": "Séréna",
-            "last_name": "Pask",
-            "email": "spask4@upenn.edu",
-            "role": "proveedor",
-            "accountType": "primiun",
-            "status": "dimiss",
-            "registrationDate": "25/07/2023"
-        }   
-    ], "services": [
-    {
-      "id": 1,
-      "name": "limpieza dental"
-    },
-    {
-      "id": 2,
-      "name": "extracción de molares"
-     },
-    {
-      "id": 3,
-      "name": "remoción de caries"
-     },
-    {
-      "id": 4,
-      "name": "empaste deltal"
-     },
-    {
-      "id": 5,
-      "name": "ortodoncia"
-    }   
-  ],"turn":[{
-  "id": 1,
-  "service": {
-      "id":1,
-      "name":"limpieza dental"
-  },
-  "description": "Descripcion turno",
-  "creation_date": "5/9/2023",
-  "date_asignment": "null",
-  "start_turn": "0:08",
-  "finish_turn": "11:59"
-}, {
-  "id": 2,
-  "service": {
-      "id":2,
-      "name": "extraccion dental"
-  },
-  "description": "Descripcion turno",
-  "creation_date": "12/30/2023",
-  "date_asignment": "null",
-  "start_turn": "22:37",
-  "finish_turn": "12:00"
-}, {
-  "id": 3,
-  "service_id": null,
-  "description": "Descripcion turno",
-  "creation_date": "10/24/2023",
-  "date_asignment": "null",
-  "start_turn": "3:23",
-  "finish_turn": "11:59"
-}, {
-  "id": 4,
-  "service_id": null,
-  "description": "Descripcion turno",
-  "creation_date": "11/26/2023",
-  "date_asignment": "null",
-  "start_turn": "20:22",
-  "finish_turn": "11:59"
-}, {
-  "id": 5,
-  "service_id": null,
-  "description": "Descripcion turno",
-  "creation_date": "9/21/2023",
-  "date_asignment": "null",
-  "start_turn": "12:54",
-  "finish_turn": "11:59"
-}, {
-  "id": 6,
-  "service_id": 4,
-  "description": "Descripcion turno",
-  "creation_date": "2/10/2024",
-  "date_asignment": "null",
-  "start_turn": "13:30",
-  "finish_turn": "11:59"
-}]
-}
+            "title": "El hombre duplicado",
+            "author": "José Saramago",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://image.cdn0.buscalibre.com/3514647.__RS360x360__.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/El%20hombre%20duplicado%20-%20Jose%20Saramago.epub",
+            "porcent": 25,
+            "type_file": "epub",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 448,
+            "summary":"¿Qué sucede cuando Tertuliano Máximo Afonso descubre a sus treinta y ocho años que en su ciudad vive un individuo que es su copia exacta y con el que no le une ningún vínculo de sangre? Ése es el interrogante que Saramago, explorando de nuevo las profundidades del alma, plantea en El hombre duplicado. ¿Cómo saber quiénes somos? ¿En qué consiste la identidad? ¿Qué nos define como personas individuales y únicas? ¿Podemos asumir que nuestra voz, nuestros rasgos, hasta la mínima marca distintiva, se repitan en otra persona? ¿Podríamos intercambiarnos con nuestro doble sin que nuestros allegados lo percibiesen? Innovando frente a las convenciones de la novela, Saramago convierte la voz narradora en sujeto activo, en un juego metaliterario que pone al servicio de la historia y que va mucho más allá de las rupturas estrictamente formales. Una novela que se lee con la avidez de un relato de intriga pero que nos sumerge en las cuestiones esenciales de la vida."
+          },
+          {
+            "id": 6,
+            "title": "Corazón caníbal",
+            "author": "Miguel Cané",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/77/f2/77f29f96e4310028f02589700eab2b42.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Corazon%20canibal%20-%20Miguel%20Cane.pdf",
+            "porcent": 54,
+            "type_file": "pdf",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 330,
+            "summary":"Claudia Castañeda, joven mexicana en Estados Unidos, contrae matrimonio por impulso con James Blaisdel, un hombre encantador que al conocerla le cuenta que fue sospechoso de la misteriosa muerte de una mujer en Texas. Pese a la advertencia, para ella el amor es más fuerte que el miedo y así, tras la boda, acepta mudarse para vivir en el hogar familiar de James, el lejano rancho de Briar Rose, a escasos kilómetros de la frontera con su país, una de las más violentas del mundo. Año y medio después, Claudia enfrenta con estupor la inexplicable pérdida de su marido y la creciente hostilidad de la elegante Nina Blaisdel, su suegra, que se niega a aceptar la desaparición de su hijo. Una ausencia que entreverá una hilera de siniestros secretos del pasado que terminarán saliendo a la luz para quedar, sin remedio, trágicamente expuestos a pleno sol. Así, Claudia descubre que los fantasmas no requieren de las tinieblas para manifestar su presencia, y también que la maldad implacable puede crecer en cualquier terreno, incluso en el del corazón. Inspirada en un suceso real y fiel a la pauta del gótico moderno de Daphne du Maurier, Shirley Jackson o Joyce Carol Oates, esta inquietante trama de suspense revela cómo la naturaleza humana se torna siniestra conforme la noche avanza, dejándonos rodeados por sombras tenebrosas al amanecer e incapaces de distinguir si lo que se percibe como real lo es, o si tal vez aquellos que amamos son lo que aparentan."
+          },
+          {
+            "id": 7,
+            "title": "Nivel 10",
+            "author": "Fani Álvarez",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/7e/db/7edbb6ca3508d6a126a6c9a3a36ae625.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Nivel%2010%20-%20Fani%20Alvarez.epub",
+            "porcent": 13,
+            "type_file": "epub",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 458,
+            "summary":"La cárcel está en su cabeza. En Beltaríh, capital de Saphen, las cárceles hace tiempo que han sido sustituidas por un dispositivo neuronal llamado C-BeCon, un cultivo sintético que aplica descargas de dolor para prevenir las conductas criminales. A los portadores del temido C-BeCon se les marca con un lunar en el párpado inferior izquierdo, el cual, además de usarse como célula de registro criminal, sirve para estigmatizar y discriminar a los cebeconeados. A Úrsula Erikson, una creciente estrella del teatro nacional, este correctivo criminal le parecería bien, de no ser porque se consideran conductas criminales casi todas las que se salgan de la norma establecida, como la homosexualidad o los trastornos psicológicos. En esa sociedad, donde a Úrsula no le queda más remedio que ser discreta y no poner en compromiso su mayor secreto, comprenderá que la única persona en quien podrá confiar es también la menos esperada. Nivel 10 es la ópera prima de Fani Álvarez, cuya formación en Neuropsicología puede verse reflejada en ella. En esta distopía, la autora ha querido explorar cómo sería una sociedad en la que los avances tecnológicos pueden ser fuente de represión cuando no van en consonancia con los avances sociales y donde el amor sigue siendo el salvavidas para los oprimidos."
+          },
+          {
+            "id": 8,
+            "title": "La Decision",
+            "author": "Viola Ardon",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/8d/1d/8d1df974b1c4c7bf96dbe2242ce2bb0d.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/La%20decision%20-%20Viola%20Ardone.pdf",
+            "porcent": 65,
+            "type_file": "pdf",
+            "category": "Ficción",
+            "lenguaje": "English",
+            "num_pags": 392,
+            "summary":"En la Sicilia de los años sesenta las mujeres siguen oprimidas por la familia, la tradición e incluso la ley. No importan los ardides que un hombre herido utilice: una mujer debe someterse a él. En esas circunstancias, y aun a riesgo de enfrentarse a todo el pueblo y pagar un alto precio por ello, la joven Oliva inicia una revolución silenciosa para conquistar su derecho a tomar libremente la más difícil de las decisiones: qué hacer con el resto de su vida. La decisión se inspira en un caso real impactante y en las vivencias de todas aquellas mujeres que eran forzadas a casarse con sus agresores. Pero es una historia que trasciende poderosamente la época y el escenario que la acogen, que se pregunta qué empuja a una persona a emprender batallas más grandes que una misma y que demuestra que a veces un gesto anónimo es capaz de iniciar algo extraordinario."
+          },
+          {
+            "id": 9,
+            "title": "La sombra del viento",
+            "author": "Carlos Ruiz Zafón",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/ab/87/ab87acaf98e410b8e041df35d99abaf4.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/La%20sombra%20del%20viento%20-%20Carlos%20Ruiz%20Zafon.epub",
+            "porcent": 55,
+            "type_file": "epub",
+            "category": "Intriga",
+            "lenguaje": "English",
+            "num_pags": 574,
+            "summary":"Año de publicación: 2002 Sinopsis: Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La Sombra del Viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los últimos esplendores del Modernismo a las tinieblas de la posguerra. La Sombra del Viento mezcla técnicas de relato de intriga, de novela histórica y de comedia de costumbres pero es, sobre todo, una tragedia histórica de amor cuyo eco se proyecta a través del tiempo. Con gran fuerza narrativa, el autor entrelaza tramas y enigmas a modo de muñecas rusas en un inolvidable relato sobre los secretos del corazón y el embrujo de los libros ,manteniendo la intriga hasta la última página."
+          },
+          {
+            "id": 10,
+            "title": "Una Corte de Hielo y Estrellas",
+            "author": "Sarah J. Maas",
+            "publication_date": "2033-07-13T13:38:33.536Z",
+            "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/e3/79/e37973d78aa63921f5f0792cf662098b.jpg",
+            "total_pages": 12,
+            "url": "https://raw.githubusercontent.com/robertrengel/robertrengel-server/main/Una%20corte%20de%20hielo%20y%20estrellas%20-%20Sarah%20J%20Maas.pdf",
+            "porcent": 90,
+            "type_file": "pdf",
+            "category": "Juvenil",
+            "lenguaje": "English",
+            "num_pags": 240,
+            "summary":"Feyre, Rhys y su círculo más íntimo de amigos están muy ocupados reconstruyendo la Corte de la Noche y el vasto mundo que la rodea. Pero el Solsticio del Invierno finalmente se acerca, y con él, cierto alivio ganado con mucho esfuerzo. No obstante, esta atmósfera festiva no conseguirá detener las sombras del pasado que acechan sin tregua. Mientras Feyre transita su primer solsticio de invierno como Alta Dama, descubre que sus seres queridos tienen más heridas de las que había imaginado: cicatrices que impactarán de manera irrefrenable en el futuro de su Corte."
+          }
+           
+    ]
+  }
 
             
